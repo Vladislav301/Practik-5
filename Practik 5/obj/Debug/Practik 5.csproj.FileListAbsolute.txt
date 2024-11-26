@@ -1,0 +1,7 @@
+C:\Users\Владислав\source\repos\Practik 5\bin\Debug\Practik 5.exe.config
+C:\Users\Владислав\source\repos\Practik 5\bin\Debug\Practik 5.exe
+C:\Users\Владислав\source\repos\Practik 5\bin\Debug\Practik 5.pdb
+C:\Users\Владислав\source\repos\Practik 5\obj\Debug\Practik 5.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\Practik 5\obj\Debug\Practik 5.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\Practik 5\obj\Debug\Practik 5.exe
+C:\Users\Владислав\source\repos\Practik 5\obj\Debug\Practik 5.pdb
